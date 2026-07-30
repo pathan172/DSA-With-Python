@@ -1,11 +1,11 @@
 #we want to count of digits in a given string 
-# num = input("Enter a string: ")
-# n = int(num)
-# count = 0 
-# while n > 0:
-#     count += 1
-#     n = n // 10
-# print(count)
+num = input("Enter a string: ")
+n = int(num)
+count = 0 
+while n > 0:
+    count += 1
+    n = n // 10
+print(count)
 
 
 
