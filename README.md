@@ -53,7 +53,7 @@ I am learning Python from scratch and solving Data Structures & Algorithms probl
 ## 🌟 Connect With Me
 
 - GitHub: https://github.com/pathan172
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: *(https://www.linkedin.com/in/anzar-khan-a40906279/)*
 
 ---
 
