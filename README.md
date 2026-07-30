@@ -1,0 +1,60 @@
+# 🚀 DSA With Python
+
+Welcome to my **DSA With Python** learning journey!
+
+I am learning Python from scratch and solving Data Structures & Algorithms problems daily. This repository contains my daily practice, notes, and coding solutions.
+
+---
+
+## 📅 Progress
+
+### ✅ Day 1
+- Python Basics
+- Input & Output
+- Variables
+- Comments
+- Count Digits
+- Reverse Number
+- Palindrome Number
+
+---
+
+## 🎯 Goals
+
+- Learn Python from Beginner to Advanced
+- Master Data Structures & Algorithms
+- Solve LeetCode Problems
+- Build Strong Problem-Solving Skills
+- Stay Consistent with Daily GitHub Commits
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- VS Code
+- Git
+- GitHub
+
+---
+
+## 📌 Daily Progress
+
+| Day | Topics | Status |
+|-----|--------|--------|
+| Day 1 | Python Basics | ✅ Completed |
+| Day 2 | If-Else | ⏳ Coming Soon |
+| Day 3 | Loops | ⏳ Coming Soon |
+| Day 4 | Functions | ⏳ Coming Soon |
+| Day 5 | Lists | ⏳ Coming Soon |
+
+---
+
+## 🌟 Connect With Me
+
+- GitHub: https://github.com/pathan172
+- LinkedIn: *(Add your LinkedIn profile link here)*
+
+---
+
+⭐ If you like this repository, don't forget to star it!
