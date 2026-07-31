@@ -1,33 +1,33 @@
 #print factors
 #brute force method
-# num =20
-# result = []
-# for i in range(1,num+1):
-#     if num % i ==0:
-#         result.append(i)
-# print(result)
+num =20
+result = []
+for i in range(1,num+1):
+    if num % i ==0:
+        result.append(i)
+print(result)
 
 
 #better approach
-# num = 20
-# result = []
-# for i in range(1, num//2 + 1):
-#     if num % i == 0:
-#         result.append(i)
-# result.append(num)
-# print(result)        
+num = 20
+result = []
+for i in range(1, num//2 + 1):
+    if num % i == 0:
+        result.append(i)
+result.append(num)
+print(result)        
 
 
 #optimal approach
-# from math import sqrt
-# num = 20
-# result = []
-# for i in range(1, int(sqrt(num)) + 1):
-#     if num % i == 0:
-#         result.append(i)
-#         if i != num // i:
-#             result.append(num // i)
-# print(sorted(result))
+from math import sqrt
+num = 20
+result = []
+for i in range(1, int(sqrt(num)) + 1):
+    if num % i == 0:
+        result.append(i)
+        if i != num // i:
+            result.append(num // i)
+print(sorted(result))
 
 
 #hashing in python
