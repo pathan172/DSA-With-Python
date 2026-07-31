@@ -41,19 +41,7 @@ I am learning Python from scratch and solving Data Structures & Algorithms probl
 - Git
 - GitHub
 
----
 
-## 📌 Daily Progress
-
-| Day | Topics | Status |
-|-----|--------|--------|
-| Day 1 | Python Basics | ✅ Completed |
-| Day 2 | If-Else | ⏳ Coming Soon |
-| Day 3 | Loops | ⏳ Coming Soon |
-| Day 4 | Functions | ⏳ Coming Soon |
-| Day 5 | Lists | ⏳ Coming Soon |
-
----
 
 ## 🌟 Connect With Me
 
