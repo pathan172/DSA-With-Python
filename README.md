@@ -9,10 +9,6 @@ I am learning Python from scratch and solving Data Structures & Algorithms probl
 ## 📖 Progress
 
 ### ✅ Day 1
-- Python Basics
-- Input & Output
-- Variables
-- Comments
 - Count Digits
 - Reverse Number
 - Palindrome Number
@@ -20,9 +16,12 @@ I am learning Python from scratch and solving Data Structures & Algorithms probl
 ### ✅ Day 2
 - Divisors of a Number (Brute Force)
 - Divisors of a Number (Better Approach)
-- Divisors of a Number (Optimal Approach using √N)
+- Divisors of a Number (Optimal Approach)
 
----
+### ✅ Day 3
+- Introduction to Recursion
+- Head Recursion
+- Tail Recursion
 
 ## 🎯 Goals
 
