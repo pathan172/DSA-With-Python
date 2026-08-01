@@ -6,7 +6,7 @@ I am learning Python from scratch and solving Data Structures & Algorithms probl
 
 ---
 
-## 📅 Progress
+## 📖 Progress
 
 ### ✅ Day 1
 - Python Basics
@@ -16,6 +16,11 @@ I am learning Python from scratch and solving Data Structures & Algorithms probl
 - Count Digits
 - Reverse Number
 - Palindrome Number
+
+### ✅ Day 2
+- Divisors of a Number (Brute Force)
+- Divisors of a Number (Better Approach)
+- Divisors of a Number (Optimal Approach using √N)
 
 ---
 
@@ -36,19 +41,7 @@ I am learning Python from scratch and solving Data Structures & Algorithms probl
 - Git
 - GitHub
 
----
 
-## 📌 Daily Progress
-
-| Day | Topics | Status |
-|-----|--------|--------|
-| Day 1 | Python Basics | ✅ Completed |
-| Day 2 | If-Else | ⏳ Coming Soon |
-| Day 3 | Loops | ⏳ Coming Soon |
-| Day 4 | Functions | ⏳ Coming Soon |
-| Day 5 | Lists | ⏳ Coming Soon |
-
----
 
 ## 🌟 Connect With Me
 
