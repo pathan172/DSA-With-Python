@@ -2,7 +2,8 @@
 
 Welcome to my **DSA With Python** learning journey!
 
-I am learning Python from scratch and solving Data Structures & Algorithms problems daily. This repository contains my daily practice, notes, and coding solutions.
+I am learning Python from scratch and solving Data Structures & Algorithms problems daily. This repository contains my daily practice, notes, and coding solutions. And its also give a mindset of work dong potentially.
+
 
 ---
 
